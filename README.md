@@ -11,6 +11,8 @@ The dataframe created gives plenty of data to draw conclusions. We can determine
 
 ![image of Pyber_Summary](https://github.com/clondon0792/PyBer_Analysis/blob/main/Resources/pyber_summary.PNG)
 
+## Plot Line analysis
+
 By referencing the below line plot, we are able to determine the total fares never intersect. The urban cities are always the highest grossing, followed by suburban, then rural. Each city type does have an overall growth which shows the company is growing, and there is a high-volume spike towards the end of February for each city type.
 
 ![plot line](https://github.com/clondon0792/PyBer_Analysis/blob/main/Resources/line_plot.PNG)
